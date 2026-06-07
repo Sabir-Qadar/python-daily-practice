@@ -1,0 +1,26 @@
+s1={10,20,30}
+print(s1)
+s2=set([5,10,3,4])
+print(s2)
+s3={}
+print(type(s3))
+s4=set()
+print(type(s4))
+print(s4)
+s1.add(10)
+print(s1)
+s1.add(20)
+print(s1)
+s1.update([30,40,50])
+print(s1)
+s1.remove(20)
+print(s1)
+s1.discard(30)
+print(s1)
+print(s1)
+print(s1.union(s2))
+print(s2.intersection(s1))
+s1.clear()
+s2.clear()
+del s1
+del s2
