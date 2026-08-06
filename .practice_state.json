@@ -2,6 +2,10 @@
   "solved": [
     "roman_to_integer",
     "anagram_check",
-    "kth_largest"
+    "kth_largest",
+    "matrix_multiply",
+    "quick_sort",
+    "run_length_encoding",
+    "container_with_most_water"
   ]
 }
