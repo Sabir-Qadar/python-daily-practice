@@ -10,6 +10,10 @@
     "prime_sieve",
     "group_anagrams",
     "palindrome_check",
-    "reverse_linked_list"
+    "reverse_linked_list",
+    "vowel_consonant_count",
+    "word_frequency",
+    "flatten_nested_list",
+    "string_compression"
   ]
 }
