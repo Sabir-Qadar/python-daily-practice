@@ -14,6 +14,10 @@
     "vowel_consonant_count",
     "word_frequency",
     "flatten_nested_list",
-    "string_compression"
+    "string_compression",
+    "merge_intervals",
+    "missing_number",
+    "caesar_cipher",
+    "digital_root"
   ]
 }
