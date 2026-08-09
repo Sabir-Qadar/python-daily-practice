@@ -18,6 +18,10 @@
     "merge_intervals",
     "missing_number",
     "caesar_cipher",
-    "digital_root"
+    "digital_root",
+    "matrix_transpose",
+    "fizzbuzz",
+    "rotate_array",
+    "armstrong_number"
   ]
 }
