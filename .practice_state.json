@@ -22,6 +22,9 @@
     "matrix_transpose",
     "fizzbuzz",
     "rotate_array",
-    "armstrong_number"
+    "armstrong_number",
+    "binary_decimal_convert",
+    "max_subarray_sum",
+    "valid_parentheses"
   ]
 }
