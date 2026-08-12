@@ -25,6 +25,10 @@
     "armstrong_number",
     "binary_decimal_convert",
     "max_subarray_sum",
-    "valid_parentheses"
+    "valid_parentheses",
+    "two_sum",
+    "longest_common_prefix",
+    "binary_search",
+    "chunk_list"
   ]
 }
