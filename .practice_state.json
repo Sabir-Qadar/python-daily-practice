@@ -29,6 +29,10 @@
     "two_sum",
     "longest_common_prefix",
     "binary_search",
-    "chunk_list"
+    "chunk_list",
+    "fibonacci_memo",
+    "gcd_lcm",
+    "majority_element",
+    "bubble_sort"
   ]
 }
