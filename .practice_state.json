@@ -2,6 +2,9 @@
   "solved": [
     "chunk_list",
     "anagram_check",
-    "caesar_cipher"
+    "caesar_cipher",
+    "word_frequency",
+    "quick_sort",
+    "roman_to_integer"
   ]
 }
