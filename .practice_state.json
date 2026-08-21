@@ -5,6 +5,9 @@
     "caesar_cipher",
     "word_frequency",
     "quick_sort",
-    "roman_to_integer"
+    "roman_to_integer",
+    "matrix_transpose",
+    "digital_root",
+    "missing_number"
   ]
 }
