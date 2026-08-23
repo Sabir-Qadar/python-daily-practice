@@ -8,6 +8,10 @@
     "roman_to_integer",
     "matrix_transpose",
     "digital_root",
-    "missing_number"
+    "missing_number",
+    "gcd_lcm",
+    "vowel_consonant_count",
+    "run_length_encoding",
+    "reverse_linked_list"
   ]
 }
