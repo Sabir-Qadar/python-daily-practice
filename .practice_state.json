@@ -12,6 +12,10 @@
     "gcd_lcm",
     "vowel_consonant_count",
     "run_length_encoding",
-    "reverse_linked_list"
+    "reverse_linked_list",
+    "armstrong_number",
+    "stack_via_queues",
+    "valid_parentheses",
+    "kth_largest"
   ]
 }
