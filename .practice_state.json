@@ -16,6 +16,9 @@
     "armstrong_number",
     "stack_via_queues",
     "valid_parentheses",
-    "kth_largest"
+    "kth_largest",
+    "palindrome_check",
+    "majority_element",
+    "flatten_nested_list"
   ]
 }
