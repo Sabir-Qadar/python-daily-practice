@@ -19,6 +19,9 @@
     "kth_largest",
     "palindrome_check",
     "majority_element",
-    "flatten_nested_list"
+    "flatten_nested_list",
+    "group_anagrams",
+    "two_sum",
+    "binary_decimal_convert"
   ]
 }
