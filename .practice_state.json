@@ -22,6 +22,9 @@
     "flatten_nested_list",
     "group_anagrams",
     "two_sum",
-    "binary_decimal_convert"
+    "binary_decimal_convert",
+    "matrix_multiply",
+    "fibonacci_memo",
+    "perfect_number"
   ]
 }
