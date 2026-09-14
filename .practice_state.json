@@ -25,6 +25,9 @@
     "binary_decimal_convert",
     "matrix_multiply",
     "fibonacci_memo",
-    "perfect_number"
+    "perfect_number",
+    "binary_search",
+    "longest_common_prefix",
+    "bubble_sort"
   ]
 }
