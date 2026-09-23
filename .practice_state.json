@@ -28,6 +28,9 @@
     "perfect_number",
     "binary_search",
     "longest_common_prefix",
-    "bubble_sort"
+    "bubble_sort",
+    "merge_intervals",
+    "max_subarray_sum",
+    "string_compression"
   ]
 }
